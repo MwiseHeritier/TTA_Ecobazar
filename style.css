@@ -5,7 +5,23 @@
 .bg-main{
     background-color: #00B207;
 }
+
 .bg-black-main{
     background-color: #333333;
     color: #666666;
+}
+.text-main{
+    color: #00B207;
+}
+.big-bannar{
+    background-image: url(./images/Bannar-1.jpg);
+}
+.small-bannar-1{
+    background-image: url(./images/Bannar-2.png);
+}
+.small-bannar-2{
+    background-image: url(./images/Bannar-3.png);
+}
+.bg-orange{
+    background-color: #FF8A00;
 }
