@@ -44,6 +44,10 @@
     height: 450px;
     font-family: Arial, Helvetica, sans-serif;
 }
+.discount-container{
+    background-image: url(./images/discount-bannar.png);
+    height: 300px;
+}
 @media screen and (max-width: 768px){
     .w-15{
         width: 30%;
