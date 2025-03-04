@@ -48,6 +48,30 @@
     background-image: url(./images/discount-bannar.png);
     height: 300px;
 }
+.insta-1{
+    background-image: url(./images/Instagram-1.png);
+    height: 150px;
+}
+.insta-2{
+    background-image: url(./images/Instagram-2.png);
+    height: 150px;
+}
+.insta-3{
+    background-image: url(./images/Instagram-3.png);
+    height: 150px;
+}
+.insta-4{
+    background-image: url(./images/Instagram-4.png);
+    height: 150px;
+}
+.insta-5{
+    background-image: url(./images/Instagram-5.png);
+    height: 150px;
+}
+.insta-6{
+    background-image: url(./images/Instagram-6.png);
+    height: 150px;
+}
 @media screen and (max-width: 768px){
     .w-15{
         width: 30%;
