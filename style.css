@@ -81,14 +81,21 @@
     background-image: url(./images/contact-map.png);
     height: 300px;
 }
+.blog-main-header{
+    background-image: url(./images/blog-bg.png);
+    height: 100px;
+}
+.blog-gallery{
+    height: 102px;
+}
 @media screen and (max-width: 768px){
     .w-15{
         width: 30%;
     }
-    .contact-main-header{
+    .contact-main-header,
+    .blog-main-header,
+    .contact-main-map{
         display: none;
     }
-    .contact-main-map{
-       display: none;
-    }
+   
 }
