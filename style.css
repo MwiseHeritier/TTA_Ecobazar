@@ -88,13 +88,18 @@
 .blog-gallery{
     height: 102px;
 }
+.single-blog-main-header{
+    background-image: url(./images/single-blog-bg.png);
+    height: 100px; 
+}
 @media screen and (max-width: 768px){
     .w-15{
         width: 30%;
     }
     .contact-main-header,
     .blog-main-header,
-    .contact-main-map{
+    .contact-main-map,
+    .single-blog-main-header{
         display: none;
     }
    
